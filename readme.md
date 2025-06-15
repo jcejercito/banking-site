@@ -108,7 +108,20 @@ Winden is a web-based banking application designed for entrepreneurs and busines
 
 ## Screenshots
 
-> _Add screenshots of the application here (e.g., landing page, signup, dashboard, transaction history, etc.)_
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### New Transaction
+![New Transaction](screenshots/new-transaction.png)
+
+### Transaction History
+![Transaction History](screenshots/transaction-history.png)
 
 ---
 
