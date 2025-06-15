@@ -1,0 +1,20 @@
+#form-container{
+	width: 32% !important;
+}
+
+h1{
+	font-family: "SF Pro Text", sans-serif !important;
+}
+
+.form-text, p, a{
+	font-family: "Aeonik Pro TRIAL", sans-serif !important;
+	font-size: .875rem !important;
+}
+
+.form-control::placeholder{
+	color: gray !important;
+}
+
+.form-label{
+	color:black !important;
+}

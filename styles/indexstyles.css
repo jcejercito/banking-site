@@ -1,0 +1,88 @@
+body{
+	background-color: #fcfcfd !important;
+}
+
+#logo{
+	color: #6936f5;
+}
+
+.landing-header{
+	font-family: "Aeonik Pro TRIAL", sans-serif !important;
+	font-size: 88px;
+	line-height: 92px;
+	text-align:center;
+	color: #060a23;
+}
+
+.landing-text{
+	font-family: "SF Pro Text", sans-serif !important;
+	text-align:center;
+	letter-spacing: -.02em;
+	font-size: 18px;
+	line-height: 32px;
+	color: #060a23;
+}
+.navbar{
+	background-color: rgba(252, 252, 253, 1) !important;
+}
+.navbar-head a{
+	font-family: "SF Pro Text", sans-serif !important;
+	color: #262b40;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.navbar-head {
+	padding: 24px 40px !important;
+	max-width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar-center ul{
+	grid-column-gap: 16px;
+}
+
+.navbar-center li{
+	padding: 8px 20px;
+}
+
+.navbar-right ul{
+	grid-column-gap: 12px;
+}
+
+#landing-section{
+	background-color: #fcfcfd;
+}
+
+.landing-container{
+	padding-top: 12rem;
+	z-index: 5;
+	grid-column-gap: 16px;
+	grid-row-gap: 16px;
+}
+
+.landing-background{
+	height:100%;
+	position:absolute;
+	top:0%;
+	bottom:auto;
+	right:0%;
+	left:0%;
+}
+
+.landing-background img{
+	max-width: 100%;
+	z-index: 0;
+}
+
+.btn-header{
+	padding: 16px 16px 16px 16px !important;
+	font-size: 16px !important;
+}
+
+.nostyle{
+	text-decoration:inherit;
+	color: inherit;
+    cursor: auto;
+}

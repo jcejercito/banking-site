@@ -1,0 +1,20 @@
+h1{
+	font-family: "SF Pro Text", sans-serif !important;
+}
+
+a{
+	text-decoration: none !important;
+	color:inherit !important;
+}
+
+#form-container{
+	margin: 0 auto;
+}
+
+.form-text, p, a{
+	font-family: "Aeonik Pro TRIAL", sans-serif !important;
+}
+
+.header-text{
+	font-size: 1rem;
+}
